@@ -22,7 +22,7 @@ public class user {
     private static user selectedacc;
     
     public static user[] getAllUsers() {
-    return users;  // Devuelve el arreglo de usuarios registrados
+    return users; 
 }
     
      private tweet[] tweets = new tweet[100]; 
